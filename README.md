@@ -1,4 +1,4 @@
-# AI-MC 服务器智能管理脚本
+<img width="450" height="450" alt="-9lddQ2u-3h1wX11Za6T3cSci-ci" src="https://github.com/user-attachments/assets/aadb8dd6-85d0-42f3-a517-d2ae0e7ddc44" /># AI-MC 服务器智能管理脚本
 
 一个基于 Python 开发的轻量级脚本，通过调用大语言模型（LLM）API，让你可以用**自然语言**控制 Minecraft 服务器（例如：“踢掉那个熊孩子”、“把大家都传送到主城”、“备份世界”）。脚本通过 RCON 协议与服务器通信，安全高效。
 两个版本目前，图形化和自己配置
@@ -107,3 +107,6 @@ python llm.py
 ---
 
 如果还有其他不清楚的地方，欢迎提交 Issue 或直接查看源码中的注释！如果觉得好用，别忘了给个 Star ⭐ 支持一下！
+<img width="450" height="450" alt="-9lddQ2u-3h1wX11Za6T3cSci-ci" src="https://github.com/user-attachments/assets/aa6413fd-e9a2-4d68-95b5-84581cd9931c" />
+
+
