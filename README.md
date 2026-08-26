@@ -107,6 +107,7 @@ python llm.py
 ---
 
 如果还有其他不清楚的地方，欢迎提交 Issue 或直接查看源码中的注释！如果觉得好用，别忘了给个 Star ⭐ 支持一下！
+~~按照我的想法提示词应该按照亚托莉的性格写的（自用版本也是）但是亚托莉实在是太不擅长做家务啦，战斗型机器人嘛（笑）~~
 <img width="450" height="450" alt="-9lddQ2u-3h1wX11Za6T3cSci-ci" src="https://github.com/user-attachments/assets/aadb8dd6-85d0-42f3-a517-d2ae0e7ddc44" />
 https://drive.google.com/file/d/1hCvF8V1P5AnxZcfA1wx3htdzRC2Bj8dz/preview
 
